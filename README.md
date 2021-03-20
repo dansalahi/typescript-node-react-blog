@@ -1,2 +1,3 @@
 # Typescript-Node-Blog
-A Simple Blog by Typescript, Node
+> A simple blog. back-end by typescript-node and react.js for front-end.
+
